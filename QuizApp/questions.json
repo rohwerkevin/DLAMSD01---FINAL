@@ -1,0 +1,248 @@
+{
+  "Leicht": [
+    {
+      "question": "Was ist die Hauptstadt von Deutschland?",
+      "answer": "Berlin"
+    },
+    {
+      "question": "Wie viel ist 3 + 3?",
+      "answer": "6"
+    },
+    {
+      "question": "Welche Farbe hat der Himmel an einem klaren Tag?",
+      "answer": "Blau"
+    },
+    {
+      "question": "Wie viele Tage hat eine Woche?",
+      "answer": "7"
+    },
+    {
+      "question": "Welches Tier bellt?",
+      "answer": "Hund"
+    },
+    {
+      "question": "Was trinkt eine Kuh?",
+      "answer": "Wasser"
+    },
+    {
+      "question": "Wie viele Beine hat eine Spinne?",
+      "answer": "8"
+    },
+    {
+      "question": "Welcher Planet ist der Erde am nächsten?",
+      "answer": "Venus"
+    },
+    {
+      "question": "Was ist das Gegenteil von heiß?",
+      "answer": "Kalt"
+    },
+    {
+      "question": "In welcher Jahreszeit fallen die Blätter von den Bäumen?",
+      "answer": "Herbst"
+    },
+    {
+      "question": "Wie viele Monate hat ein Jahr?",
+      "answer": "12"
+    },
+    {
+      "question": "Was ist das größte Land der Welt?",
+      "answer": "Russland"
+    },
+    {
+      "question": "Welche Farbe haben Bananen?",
+      "answer": "Gelb"
+    },
+    {
+      "question": "Was ist 10 minus 4?",
+      "answer": "6"
+    },
+    {
+      "question": "Wie nennt man ein Baby-Hund?",
+      "answer": "Welpe"
+    },
+    {
+      "question": "Wie viele Stunden hat ein Tag?",
+      "answer": "24"
+    },
+    {
+      "question": "Welche Farbe entsteht aus Rot und Weiß?",
+      "answer": "Rosa"
+    },
+    {
+      "question": "Wie heißt der Hauptcharakter in der Geschichte 'Rotkäppchen'?",
+      "answer": "Rotkäppchen"
+    },
+    {
+      "question": "Wie viele Finger hat eine menschliche Hand?",
+      "answer": "5"
+    },
+    {
+      "question": "Was ist das kleinste zweistellige Zahl?",
+      "answer": "10"
+    }
+  ],
+  "Mittel": [
+    {
+      "question": "Welches chemische Symbol steht für Wasser?",
+      "answer": "H2O"
+    },
+    {
+      "question": "Wie heißt der größte Planet im Sonnensystem?",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Wer malte die Mona Lisa?",
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Wie viele Kontinente gibt es auf der Erde?",
+      "answer": "7"
+    },
+    {
+      "question": "Was ist die Quadratwurzel von 81?",
+      "answer": "9"
+    },
+    {
+      "question": "In welchem Jahr fand die Mondlandung statt?",
+      "answer": "1969"
+    },
+    {
+      "question": "Welches Element hat das chemische Symbol 'Au'?",
+      "answer": "Gold"
+    },
+    {
+      "question": "Wer schrieb 'Faust'?",
+      "answer": "Johann Wolfgang von Goethe"
+    },
+    {
+      "question": "Wie viele Spieler hat eine Fußballmannschaft auf dem Feld?",
+      "answer": "11"
+    },
+    {
+      "question": "Was ist die Hauptstadt von Österreich?",
+      "answer": "Wien"
+    },
+    {
+      "question": "Wer entdeckte Amerika?",
+      "answer": "Christoph Kolumbus"
+    },
+    {
+      "question": "Was ist der längste Fluss in Deutschland?",
+      "answer": "Rhein"
+    },
+    {
+      "question": "Wie heißt das kleinste Land der Welt?",
+      "answer": "Vatikanstadt"
+    },
+    {
+      "question": "Was ist die chemische Formel für Kochsalz?",
+      "answer": "NaCl"
+    },
+    {
+      "question": "Wer schrieb 'Die Leiden des jungen Werthers'?",
+      "answer": "Johann Wolfgang von Goethe"
+    },
+    {
+      "question": "Was ist die Hauptstadt von Spanien?",
+      "answer": "Madrid"
+    },
+    {
+      "question": "Wie viele Planeten hat unser Sonnensystem?",
+      "answer": "8"
+    },
+    {
+      "question": "Welches Gas atmen Pflanzen ein?",
+      "answer": "Kohlendioxid"
+    },
+    {
+      "question": "Wie viele Farben hat der Regenbogen?",
+      "answer": "7"
+    },
+    {
+      "question": "Was ist die größte Wüste der Welt?",
+      "answer": "Sahara"
+    }
+  ],
+  "Schwer": [
+    {
+      "question": "Welches Jahr war das Ende des Zweiten Weltkriegs?",
+      "answer": "1945"
+    },
+    {
+      "question": "Was ist das Quadrat von 15?",
+      "answer": "225"
+    },
+    {
+      "question": "Wer entdeckte das Penicillin?",
+      "answer": "Alexander Fleming"
+    },
+    {
+      "question": "Wie lautet das dritte Newtonsche Bewegungsgesetz?",
+      "answer": "Aktion gleich Reaktion"
+    },
+    {
+      "question": "Was ist die chemische Formel für Salzsäure?",
+      "answer": "HCl"
+    },
+    {
+      "question": "In welcher Stadt wurden die Olympischen Spiele 2000 ausgetragen?",
+      "answer": "Sydney"
+    },
+    {
+      "question": "Was ist der längste Fluss der Welt?",
+      "answer": "Nil"
+    },
+    {
+      "question": "Wer komponierte die Oper 'Die Zauberflöte'?",
+      "answer": "Wolfgang Amadeus Mozart"
+    },
+    {
+      "question": "Wie viele Elemente sind im Periodensystem?",
+      "answer": "118"
+    },
+    {
+      "question": "Was ist die kleinste Primzahl?",
+      "answer": "2"
+    },
+    {
+      "question": "Was ist die Hauptstadt von Kanada?",
+      "answer": "Ottawa"
+    },
+    {
+      "question": "Wer schrieb 'Die Verwandlung'?",
+      "answer": "Franz Kafka"
+    },
+    {
+      "question": "Was ist die zweite Ableitung von x^3?",
+      "answer": "6x"
+    },
+    {
+      "question": "In welchem Jahr fiel die Berliner Mauer?",
+      "answer": "1989"
+    },
+    {
+      "question": "Wer entwickelte die Relativitätstheorie?",
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "Was ist die Formel für die Berechnung der kinetischen Energie?",
+      "answer": "E = 0.5 * m * v^2"
+    },
+    {
+      "question": "Wie heißt der Prozess, bei dem Pflanzen Sonnenlicht in Energie umwandeln?",
+      "answer": "Photosynthese"
+    },
+    {
+      "question": "Welcher Planet ist bekannt für seine Ringe?",
+      "answer": "Saturn"
+    },
+    {
+      "question": "Wer malte 'Der Schrei'?",
+      "answer": "Edvard Munch"
+    },
+    {
+      "question": "Was ist die Entfernung zwischen Erde und Sonne?",
+      "answer": "149,6 Millionen km"
+    }
+  ]
+}
